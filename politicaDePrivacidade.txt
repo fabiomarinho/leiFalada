@@ -1,0 +1,60 @@
+
+
+
+TERMOS DE USO E POLÍTICA DE PRIVACIDADE DA LEI FALADA
+
+
+Ultima atualização em 05/11/2020
+
+
+
+Antes de utilizar A Lei Falada, leia atentamente os termos abaixo com bastante atenção.
+
+Ao usar a Lei Falada, você obriga-se a estes termos. Se você não aceitar os referidos termos, não poderá usar a Lei Falada. 
+
+
+A Lei Falada é uma Skill desenvolvida para Alexa cujo objetivo é incentivar, divugar e ensinar para as pessoas com deficiência sobre seus direitos.
+Para tanto ela busca de forma inteligente por temas em leis brasileiras chave que abordam os direitos das pessoas com deficiência. Em uma primeira versão decidimos explorar a Lei Brasileira de inclusão, também conhecida como Estatuto da pessoa com deficiência.
+A busca é feita diretamente em sites do governo federal e , por isso, o que é lido está sempre atualizado.
+
+Para os fins destes Termos de Uso da Lei Falada, passaremos a nos referir a ela como Skill.
+
+A Skill utiliza informações confiáveis e validadas pelos órgãos oficiais responsáveis do governo brasileiro oriundas de sites oficiais.
+
+Você entende que a Skill faz uma busca por palavras em algumas leis.
+Ela NÂO pesquisa em todas as leis existentes.
+
+A Skill ordena os resultados de sua busca em ordem 
+
+apresenta os artigos em ordem decrescente de acordo com a quantidade de vezes que a palavra pedida é utilizada.
+
+
+Ela apenas lê o que está publicado nos sites oficiais do governo.
+A Skill NÂO altera de NENHUMA FORMA o texto lido.
+você é totalmente responsável pela interpretação do texto lido.
+
+
+
+A Skill não edita qualquer uma das informações apresentadas, apenas lê para o usuário o resultado da pesquisa de acordo com sua demanda. Por isso, não é responsável de nenhuma forma caso haja qualquer erro nas informações apresentadas.
+
+
+O uso da skill NÃO substitui em hipótese alguma a consulta a profissionais do Direito.
+A Skill NÂO cobre em sua totalidade a pesquisa por determinado tema. Ela Deixa claro em quais leis está fazendo sua busca.
+
+
+O objetivo da skill é apenas tornar acessível o acesso às informações de algumas leis específicas.
+
+Ao utilizar a Skill, você entende que o texto lido pode apresentar problemas de escrita e informações desorganizadas quando o texto original assim se encontra. Você é responsável por ouvir todo o conteúdo pesquisado para se informar.
+
+Ao utilizar a Skill, você entende que o texto lido pode apresentar alteração na formatação dos dados. Como exemplo, tabelas serão lidas de forma linear e imagens serão ignoradas. Você é responsável por ouvir todo o conteúdo pesquisado para se informar.
+
+A Skill NÂO é responsável de nenhuma forma pelo conteúdo das leis.
+
+Você se responsabiliza totalmente pela interpretação das informações que escuta. A Skill não altera os textos das leis, a skill apenas lê o que encontra. Por isso mesmo, a skill não é responsável caso você interprete de forma errada o que é lido.
+
+
+Você deve sempre consultar profissionais do Direito antes de tomar qualquer decisão. A Skill não se responsabiliza de nenhuma forma caso você tome decisões e atue de forma prejudicial para você ou para outra pessoa ao ouvir o que é lido.
+
+Coletamos apenas a data do último acesso e o número de acessos que você faz da Skill.
+
+Ao usar a Skill você declara que entendeu esses termos de uso e concorda integralmente com ele.
